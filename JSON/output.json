@@ -1,0 +1,168 @@
+{
+    "Elections":
+    [
+        {"name" : "43e élection fédérale", "date" : "21 octobre 2019", "type": "Federal"},
+        {"name" : "Élections générales provinciales", "date" : "1er octobre 2018", "type": "Provincial"},
+        {"name" : "42e élection fédérale", "date" : "19 octobre 2015", "type": "Federal"},
+        {"name" : "Élections générales provinciales", "date" : "7 avril 2014", "type": "Provincial"}
+    ],
+    "PartisFederaux":
+    [
+        {"abreviation": "P.L.C", "fullname": "Parti libéral du Canada"},
+        {"abreviation": "P.C.C.", "fullname": "Parti conservateur du Canada"},
+        {"abreviation": "B.Q.", "fullname": "Bloc Québécois"},
+        {"abreviation": "N.P.D.", "fullname": "Nouveau parti démocratique"},
+        {"abreviation": "P.V.C.", "fullname": "Parti vert du Canada"},
+        {"abreviation": "P.P.C.", "fullname": "Parti populaire du Canada"}
+    ],
+    "PartisProvinciaux":
+    [
+        {
+            "abreviation": "C.A.Q",
+            "fullname": "Coalition avenir Quebec"
+        },
+        {
+            "abreviation": "P.L.Q",
+            "fullname": "Parti liberal du Quebec"
+        },
+        {
+            "abreviation": "P.Q",
+            "fullname": "Parti quebecois"
+        },
+        {
+            "abreviation": "P.V.Q",
+            "fullname": "Parti vert du Quebec"
+        },
+        {
+            "abreviation": "Q.S",
+            "fullname": "Quebec solidaire"
+        },
+        {
+            "abreviation": "P.C.Q",
+            "fullname": "Parti conservateur du Quebec"
+        },
+        {
+            "abreviation": "P.I.Q",
+            "fullname": "Parti pour l'independance du Quebec"
+        }
+    ],
+
+    "PartisFederaux2":
+    [
+        {"id": "1", "fullname": "Parti libéral du Canada"},
+        {"id": "2", "fullname": "Parti conservateur du Canada"},
+        {"id": "3", "fullname": "Bloc Québécois"},
+        {"id": "4", "fullname": "Nouveau parti démocratique"},
+        {"id": "5", "fullname": "Parti vert du Canada"},
+        {"id": "6", "fullname": "Parti populaire du Canada"}
+    ],
+    "Candidats":
+
+    [
+        {
+            "id": "1",
+            "name":"Lynnette Curto",
+            "id_parti": "0"
+        },
+        {
+            "id": "2",
+            "name":"Davis Bielecki",
+            "id_parti": "0"
+        },
+        {
+            "id": "3",
+            "name":"Magaret Porta",
+            "id_parti": "0"
+        },
+        {
+            "id": "4",
+            "name":"Calista Procter",
+            "id_parti": "0"
+        },
+        {
+            "id": "5",
+            "name":"Elin Branco",
+            "id_parti": "1"
+        },
+        {
+            "id": "6",
+            "name":"Garnet Gravel",
+            "id_parti": "1"
+        },
+        {
+            "id": "7",
+            "name":"Jacques Trembley",
+            "id_parti": "1"
+        },
+        {
+            "id": "8",
+            "name":"Melva Strothers",
+            "id_parti": "2"
+        },
+        {
+            "id": "9",
+            "name":"Wenona Mau",
+            "id_parti": "2"
+        },
+        {
+            "id": "10",
+            "name":"Delois Dezern",
+            "id_parti": "2"
+        },
+        {
+            "id": "11",
+            "name":"Terresa Gruver",
+            "id_parti": "2"
+        },
+        {
+            "id": "12",
+            "name":"Javier Randel",
+            "id_parti": "3"
+        },
+        {
+            "id": "13",
+            "name":"Chris Conine",
+            "id_parti": "3"
+        },
+        {
+            "id": "14",
+            "name":"Shantel Wenner",
+            "id_parti": "3"
+        },
+        {
+            "id": "15",
+            "name":"Greta Zenz",
+            "id_parti": "4"
+        },
+        {
+            "id": "16",
+            "name":"Giselle Stillman",
+            "id_parti": "4"
+        },
+        {
+            "id": "17",
+            "name":"Abbey Ardito",
+            "id_parti": "4"
+        },
+        {
+            "id": "18",
+            "name":"Alfonzo Moschella",
+            "id_parti": "4"
+        },
+        {
+            "id": "19",
+            "name":"Lani Iliff",
+            "id_parti": "5"
+        },
+        {
+            "id": "20",
+            "name":"Taisha Bien",
+            "id_parti": "5"
+        },
+        {
+            "id": "21",
+            "name":"Emile Riopel",
+            "id_parti": "5"
+        }
+    ]
+}
